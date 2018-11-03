@@ -75,7 +75,7 @@ raft logs store (```raft.db```), and raft snapshots.
 Documentation
 -------------
 
-The documentation for this package can be found on [Godoc](http://godoc.org/github.com/CanonicalLtd/dqlite).
+The documentation for this package can be found on [Godoc](http://godoc.org/github.com/CanonicalLtd/go-dqlite).
 
 FAQ
 ---
